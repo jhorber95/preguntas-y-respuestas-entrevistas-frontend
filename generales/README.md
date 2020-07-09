@@ -104,7 +104,8 @@
 
 1. [¿Qué es el FOUC? (`Flash of unstyled content` o `Flash de Contenido sin Estilar`).](#16)
     <div id="16" />
-    [FUOC](https://es.qwe.wiki/wiki/Flash_of_unstyled_content) Flash de contenido sin estilo
+    
+    [FOUC](https://es.qwe.wiki/wiki/Flash_of_unstyled_content) Flash de contenido sin estilo
 
 1. [¿Qué es `ARIA` y `Screen Readers`?.](#17)
     <div id="17" />
